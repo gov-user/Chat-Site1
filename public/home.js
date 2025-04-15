@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>Interpol Support
+            <p>Welcome to the Official Support of The Interpol.
 
 Interpol is an international organization dedicated to facilitating cooperation among law enforcement agencies worldwide. Our mission is to enhance global safety and security through collaboration and support. The Interpol Support team is responsible for:
 
